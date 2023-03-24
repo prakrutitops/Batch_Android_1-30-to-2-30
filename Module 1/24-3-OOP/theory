@@ -1,0 +1,45 @@
+OOP ->Object Oriented Programming
+
+Features of OOP:
+
+1)
+Object:Any Entity which has own state and behaviour that is called an Object
+ex:Pen,Paper,Chair etc..
+
+2)
+Class:Collection of Objects
+ex:Human Body
+
+3)
+Abstraction:Hiding Internal Details and showing functionalities
+ex:Login Page
+
+4)
+Encapsulation:Wrapping up of data or binding of data
+ex:capsule
+
+5)
+Inheritance:When One Object Acquire all the properties and behaviour of
+parent class
+ex:father-son
+
+6)
+Polymorphism:Many Ways to perform anything
+ex:road ways
+
+Types of Polymorphism:
+1)Method Overloading
+2)Method Overriding
+
+
+Types of Inheritance:
+1)Single Inheritance
+2)Multilevel Inheritance
+3)Multiple Inheritance - Not Supported in Kotlin
+4)Hierarchical Inheritance
+5)Hybrid Inheritance
+
+
+interface->Collection of abstract methods 
+
+abstract method ->Which does not have a body part
