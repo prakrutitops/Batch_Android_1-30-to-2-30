@@ -1,0 +1,29 @@
+B37. Create a class to print the area of a square and a rectangle. The class has two methods with the
+same name but different number of parameters. The method for printing area of a rectangle has two
+parameters which are length and breadth respectively while the other method for printing area of
+square has one parameter which is side of square.
+
+B38. Create a class with a method that prints “This is a parent class” and its subclass with another
+method that prints “This is child class”. Now, create an object for each of the class and call
+1 - method of parent class by object of parent class
+2 - method of child class by object of child class
+3 - method of parent class by object of child class
+
+B39. Create a class named ‘Member’ having the following members:
+Data members1 - Name
+2 - Age
+3 - Phone number
+4 - Address
+5 - Salary
+It also has a method named ‘printSalary’ which prints the salary of the members.
+Two classes ‘Employee’ and ‘Manager’ inherits the ‘Member’ class. The ‘Employee’ and ‘Manager’
+classes have data members ‘specialization’ and ‘department’ respectively. Now, assign name, age,
+phone number, address and salary to an employee and a manager by making an object of both of
+these classes and print the same.
+
+B40. Create a class named Rectangle with two data members length and breadth and two methods to
+print the area and perimeter of the rectangle respectively. Its constructor having parameters for
+length and breadth is used to initialize the length and breadth of the rectangle. Let class Square
+inherit the Rectangle class with its constructor having a parameter for its side (suppose s) calling the
+constructor of its parent class as ‘super (s, s)’. Print the area and perimeter of a rectangle and a
+square.
