@@ -1,14 +1,33 @@
-41. write a program to print the Fibonacci series using function
-
-42. Write a program to find out the max number from given array using function
-
-43. write a program to sort the array using function
-
-44. write a program to print the string in reverse order using function
-
-45. Write a Program of Factorial using Recursive Function
-
 46. Write a Program of Print a number and check the number is palindrome or not using
 recursive Function
 
 47. Write a Program of Make a string reverse using recursive Function.
+
+32. Write a program to find the multiplication values and the cubic values using inline
+function.
+
+33. Write a program to Mathematic operation like Addition, Subtraction,
+Multiplication, Division Of two number using different parameters and Function
+Overloading
+
+34. Write a Program of Two 1D Matrix Addition using Operator Overloading
+
+35. Write a program of to concatenate the two strings using Operator Overloading
+
+36. Write a program of Addition, subtraction and multiplication of two numbers using
+Binary Operator overloading with switch case.
+
+37. Assume a class cricketer is declared. Declare a derived class batsman from
+cricketer .Data member of batsman. Total runs, Average runs and best
+performance. Member functions input data, calculate average runs, Display data.
+(Single Inheritance)
+
+38. Create a class person having members name and age. Derive a class student
+having member percentage. Derive another class teacher having member salary.
+Write necessary member function to initialize, read and write data. Write also
+Main function (Multiple Inheritance)
+
+39. Assume that the test results of a batch of students are stored in three different
+classes. Class Students are stores the roll number. Class Test stores the marks
+obtained in two subjects and class result contains the total marks obtained in the
+test. The class result can inherit the details of the marks obtained in the test and
