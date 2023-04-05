@@ -1,0 +1,11 @@
+B1. W.A.J. P to create one thread by implementing Runnable interface in Class.
+B2. W.A.J. P to create one thread by extending Thread class in another Class.
+B3. W.A.J.P to create 2 threads and execute that threads by providing sleep time as 2000ms and
+check the execution.
+B4.W.A.J.P to start the same Thread twice by calling start () method twice. TestThreadTwice1 t1=new
+TestThreadTwice1();
+t1.start(); t1.start();
+B5.W.A.J.P to call run() method directly without calling start() method for 2 threads.
+TestCallRun2 t1=new TestCallRun2();
+TestCallRun2 t2=new TestCallRun2();
+t1.run(); t2.run();
