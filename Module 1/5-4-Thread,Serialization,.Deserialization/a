@@ -1,1 +1,32 @@
+Serialization
+Deserialization
+====================
+File Create
+File Write
+File Read
+Serialize
+Deserialize
+====================
+OutputStream
+InputStream
+====================
+Thread:
+
+Class -thread
+Interface - Runnable
+=====================
+
+Thread Lifecycle:
+1)init
+2)start
+3)run
+4)stop
+5)destroy
+
+======================
+synchronization
+
+
+
+
 
