@@ -1,1 +1,25 @@
 
+Collection:Package+unit+class+interface
+
+Interface:
+
+1)List:
+class:
+ArrayList
+LinkedList
+
+2)Set:
+Class:
+Hashset
+
+3)Map:
+Class:
+HashMap
+
+
+MutableList ->Can Change
+ImmutableList->Can not Change
+
+map :
+key
+value
