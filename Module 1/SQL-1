@@ -1,3 +1,54 @@
+SQL Theory:
+SQL->Structured query language
+MYSQL->database
+=====================================
+WAMP
+W=>windows
+A=>Apache
+M=>Mysql
+P=>php
+
+LAMP
+L=>Linux
+A=>Apache
+M=>Mysql
+P=>php
+
+MAMP
+M=>Mac
+A=>Apache
+M=>Mysql
+P=>php
+
+XAMPP
+X=>Cross Platform
+A=>Apache
+M=>Mysql
+P=>php
+P=>perl
+===================================
+Apache
+Mysql
+===================================
+Types of Commands in MYSQL:
+1)DDL=>Data Definition language
+->create,alter,drop,truncate,rename
+
+2)DML=>Data Manipulation language
+->insert,update,delete
+
+3)DQL=>Data Query Language
+->select
+
+4)DCL=>Data Control Language
+->rollback,commit
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+
 DDL => Data Definition Language
 1. create database
 
