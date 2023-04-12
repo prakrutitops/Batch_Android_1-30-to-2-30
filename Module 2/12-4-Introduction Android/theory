@@ -11,4 +11,9 @@ res->designing
 java->coding
 manifest->launching
 
+Intent:Switching from one activity to another activity
+
+types of intent:
+1)Explicit
+2)Implicit
 
