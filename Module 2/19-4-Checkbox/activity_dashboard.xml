@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:stretchColumns="1"
+    android:layout_margin="25dp"
+    tools:context=".DashboardActivity">
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MENU"
+        android:textStyle="bold"
+        android:textColor="#FF9800"
+        android:gravity="center"
+        android:textSize="35sp"/>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <CheckBox
+            android:id="@+id/chk1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pizza"
+            android:textSize="35sp"/>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rs.100"
+            android:textStyle="bold"
+            android:gravity="right"
+            android:textColor="#FF5722"
+            android:textSize="35sp"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <CheckBox
+            android:id="@+id/chk2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Burger"
+            android:textSize="35sp"/>
+
+        <TextView
+            android:id="@+id/txt3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rs.50"
+            android:textStyle="bold"
+            android:gravity="right"
+            android:textColor="#FF5722"
+            android:textSize="35sp"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <CheckBox
+            android:id="@+id/chk3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Coffee"
+            android:textSize="35sp"/>
+
+        <TextView
+            android:id="@+id/txt4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rs.120"
+            android:textStyle="bold"
+            android:gravity="right"
+            android:textColor="#FF5722"
+            android:textSize="35sp"/>
+
+    </TableRow>
+
+
+    <Button
+        android:id="@+id/btnorder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="ORDER"
+        android:textSize="25dp"
+        android:backgroundTint="@color/black"/>
+
+
+</TableLayout>
