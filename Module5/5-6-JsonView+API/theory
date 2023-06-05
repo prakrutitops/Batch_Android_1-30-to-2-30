@@ -1,0 +1,35 @@
+Database:Mysql
+	+
+Connectivity:API[webservice]
+	+
+Format :JSON 
+
+JSON->javascript object notation
+
+Format -> data interchnging format
+
+
+[]->jsonarray
+
+{}->jsonobject
+
+[{},{},{}]
+{[{},{},{}]}
+
+{}
+{{}}
+
+
+[]
+
+[[]]
+
+Stringrequet
+->Method->Get,Post
+->Link
+->Response.Listener
+->Error
+
+
+
+
