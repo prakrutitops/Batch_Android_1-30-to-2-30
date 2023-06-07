@@ -1,0 +1,14 @@
+signup:
+firstname
+lastname
+email
+gender
+education
+mobile
+password
+repassword
+
+
+Login:
+mobile
+password
