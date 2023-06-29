@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all_animal"
+            android:icon="@drawable/ic_video_icon"
+            android:title="Videos" />
+        <item
+            android:id="@+id/nav_farm_animal"
+            android:icon="@drawable/farmicon"
+            android:title="Farm Animals" />
+        <item
+            android:id="@+id/nav_birds"
+            android:icon="@drawable/birdsicon"
+            android:title="Birds" />
+        <item
+            android:id="@+id/nav_water"
+            android:icon="@drawable/watericon"
+            android:title="Water Animals" />
+        <item
+            android:id="@+id/nav_insects"
+            android:icon="@drawable/insectsicon"
+            android:title="Insects" />
+        <item
+            android:id="@+id/nav_petanimal"
+            android:icon="@drawable/peticon"
+            android:title="Pet Animals" />
+
+        <item
+            android:id="@+id/nav_wildanimal"
+            android:icon="@drawable/wildicon"
+            android:title="Wild Animals" />
+
+        <item
+            android:id="@+id/nav_puzzle"
+            android:icon="@drawable/puzzle"
+            android:title="Animal Puzzles" />
+
+    </group>
+
+
+</menu>
